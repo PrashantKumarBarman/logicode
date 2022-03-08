@@ -1,0 +1,29 @@
+{
+  "name": "message_sender",
+  "version": "1.0.0",
+  "description": "message sender",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mysql2": "^2.3.3",
+    "twilio": "^3.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantKumarBarman/logicode.git"
+  },
+  "keywords": [
+    "message",
+    "sender"
+  ],
+  "author": "prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantKumarBarman/logicode/issues"
+  },
+  "homepage": "https://github.com/PrashantKumarBarman/logicode#readme"
+}
